@@ -22,9 +22,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-   "start": "node index.js",
-   "dev":"webpack build",
-   "build":"webpack build"
+   "start": "node index.js"
+ 
     },
   "author": "",
   "license": "ISC",

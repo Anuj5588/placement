@@ -22,7 +22,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-   "start": "node index.js"
+   "start": "node index.js",
+   "build":"netlify deploy --prod"
  
     },
   "author": "",
